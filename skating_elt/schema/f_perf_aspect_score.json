@@ -1,0 +1,6 @@
+[
+    {"name": "perf_aspect_score_id", "type": "INT64",   "mode": "REQUIRED"}, 
+    {"name": "perf_aspect_id",       "type": "INT64",   "mode": "REQUIRED"}, 
+    {"name": "judge_id",             "type": "INT64",   "mode": "REQUIRED"}, 
+    {"name": "score",                "type": "FLOAT64", "mode": "REQUIRED"}
+]  

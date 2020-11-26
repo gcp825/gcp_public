@@ -1,0 +1,7 @@
+[
+    {"name": "person_id",   "type": "INT64",  "mode": "REQUIRED"}, 
+    {"name": "forename",    "type": "STRING", "mode": "NULLABLE"}, 
+    {"name": "surname",     "type": "STRING", "mode": "NULLABLE"}, 
+    {"name": "gender",      "type": "STRING", "mode": "NULLABLE"}, 
+    {"name": "nationality", "type": "STRING", "mode": "NULLABLE"}
+]

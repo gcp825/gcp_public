@@ -1,0 +1,10 @@
+[
+    {"name": "clean_judge_nm",       "type": "STRING", "mode": "REQUIRED"},
+    {"name": "judge_affiliation_nm", "type": "STRING", "mode": "REQUIRED"},
+    {"name": "judge_nm",             "type": "STRING", "mode": "REQUIRED"},
+    {"name": "role",                 "type": "STRING", "mode": "REQUIRED"},
+    {"name": "program_event_nm",     "type": "STRING", "mode": "REQUIRED"},
+    {"name": "competition_nm",       "type": "STRING", "mode": "REQUIRED"},
+    {"name": "clean_role",           "type": "STRING", "mode": "REQUIRED"},
+    {"name": "nationality",          "type": "STRING", "mode": "REQUIRED"}
+]

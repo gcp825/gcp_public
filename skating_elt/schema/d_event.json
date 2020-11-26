@@ -1,0 +1,7 @@
+[
+    {"name": "event_id",       "type": "INT64",  "mode": "REQUIRED"}, 
+    {"name": "competition_nm", "type": "STRING", "mode": "REQUIRED"}, 
+    {"name": "program_nm",     "type": "STRING", "mode": "REQUIRED"}, 
+    {"name": "element_nm",     "type": "STRING", "mode": "REQUIRED"}, 
+    {"name": "entries_ct",     "type": "INT64",  "mode": "NULLABLE"} 
+]

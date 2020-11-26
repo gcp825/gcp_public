@@ -1,0 +1,14 @@
+[
+    {"name": "judged_aspect_id",    "type": "STRING",  "mode": "REQUIRED"},	
+    {"name": "performance_id",      "type": "STRING",  "mode": "REQUIRED"},
+    {"name": "aspect_type_nm",      "type": "STRING",  "mode": "REQUIRED"},	
+    {"name": "perf_aspect_seq_nbr", "type": "FLOAT64", "mode": "NULLABLE"},		
+    {"name": "aspect_desc",         "type": "STRING",  "mode": "REQUIRED"},	
+    {"name": "info_flag",           "type": "STRING",  "mode": "NULLABLE"},		
+    {"name": "credit_flag",         "type": "STRING",  "mode": "NULLABLE"},		
+    {"name": "base_difficulty",     "type": "FLOAT64", "mode": "NULLABLE"},		
+    {"name": "factor",              "type": "FLOAT64", "mode": "NULLABLE"},		
+    {"name": "goe",                 "type": "FLOAT64", "mode": "NULLABLE"},	
+    {"name": "ref",                 "type": "STRING",  "mode": "NULLABLE"},		
+    {"name": "total_score",         "type": "FLOAT64", "mode": "REQUIRED"}
+]

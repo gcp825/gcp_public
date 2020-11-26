@@ -1,0 +1,11 @@
+[
+    {"name": "perf_id",             "type": "INT64",   "mode": "REQUIRED"}, 
+    {"name": "event_id",            "type": "INT64",   "mode": "REQUIRED"}, 
+    {"name": "event_perf_seq_nbr",  "type": "INT64",   "mode": "REQUIRED"}, 
+    {"name": "skater1_id",          "type": "INT64",   "mode": "REQUIRED"}, 
+    {"name": "skater2_id",          "type": "INT64",   "mode": "NULLABLE"}, 
+    {"name": "event_perf_rank_nbr", "type": "INT64",   "mode": "NULLABLE"}, 
+    {"name": "component_score",     "type": "FLOAT64", "mode": "NULLABLE"}, 
+    {"name": "element_score",       "type": "FLOAT64", "mode": "NULLABLE"}, 
+    {"name": "deductions",          "type": "FLOAT64", "mode": "NULLABLE"} 
+]

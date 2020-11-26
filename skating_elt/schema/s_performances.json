@@ -1,0 +1,13 @@
+[
+    {"name": "performance_id",      "type": "STRING",  "mode": "REQUIRED"},
+    {"name": "competition_nm",      "type": "STRING",  "mode": "REQUIRED"},
+    {"name": "program_event_nm",    "type": "STRING",  "mode": "REQUIRED"},
+    {"name": "skater_nm",           "type": "STRING",  "mode": "REQUIRED"},
+    {"name": "nationality",         "type": "STRING",  "mode": "REQUIRED"},
+    {"name": "event_perf_rank_nbr", "type": "INT64",   "mode": "REQUIRED"},
+    {"name": "event_perf_seq_nbr",  "type": "INT64",   "mode": "REQUIRED"},
+    {"name": "segment_score",       "type": "FLOAT64", "mode": "REQUIRED"},
+    {"name": "element_score",       "type": "FLOAT64", "mode": "REQUIRED"},
+    {"name": "component_score",     "type": "FLOAT64", "mode": "REQUIRED"},
+    {"name": "deductions",          "type": "FLOAT64", "mode": "REQUIRED"}
+]
